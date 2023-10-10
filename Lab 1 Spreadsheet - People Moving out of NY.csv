@@ -1,4 +1,4 @@
-New State of Residence,Year,Number of People Migrated from New York,Different State of Residence 1 Year Ago,Median Age Living in State,Percent of Population 65+ Years Old,Percent of 25+ Years Old Population with Bachelor's Degree or Higher,Percent without Healthcare Coverage,Percent of Households with One or More People Under 18 Years,Civilian Employment Rate
+CurrentResidence,Year,TotalMigrated,DiffResidence,MedAge,Pop65,Education,Healthcare,Households,Employment
 Alabama,2021,2085,115641,39.8,17.6,26.7,9.9,28.8,54.1
 Alabama,2011,1108,117726,38.1,14,22,14.3,32.3,54.1
 Alaska,2021,70,31378,35.6,13.4,34.7,11.4,31.7,57.4
