@@ -1,0 +1,65 @@
+attribute,comparedTo,corrCoeff
+Number of People Migrated from New York,Number of People Migrated from New York,1.0
+Number of People Migrated from New York,Population with Different State of Residence 1 Year Ago,0.6956168040460566
+Number of People Migrated from New York,Median Age Living in State (Years),0.200474133829281
+Number of People Migrated from New York,Population 65+ Years Old (%),0.17536089816319106
+Number of People Migrated from New York,25+ Years Old Population with Bachelor's Degree or Higher (%),0.1747645384469106
+Number of People Migrated from New York,No Healthcare Coverage (%),0.15293987840977213
+Number of People Migrated from New York,Households with One or More People Under 18 Years (%),0.09296993348915686
+Number of People Migrated from New York,Civilian Employment Rate (%),-0.17693649583605672
+Population with Different State of Residence 1 Year Ago,Number of People Migrated from New York,0.6956168040460566
+Population with Different State of Residence 1 Year Ago,Population with Different State of Residence 1 Year Ago,1.0
+Population with Different State of Residence 1 Year Ago,Median Age Living in State (Years),-0.12165414720518336
+Population with Different State of Residence 1 Year Ago,Population 65+ Years Old (%),-0.12390237365224017
+Population with Different State of Residence 1 Year Ago,25+ Years Old Population with Bachelor's Degree or Higher (%),0.03383975559768561
+Population with Different State of Residence 1 Year Ago,No Healthcare Coverage (%),0.40778247994933986
+Population with Different State of Residence 1 Year Ago,Households with One or More People Under 18 Years (%),0.2999503348494814
+Population with Different State of Residence 1 Year Ago,Civilian Employment Rate (%),-0.2887163201530255
+Median Age Living in State (Years),Number of People Migrated from New York,0.200474133829281
+Median Age Living in State (Years),Population with Different State of Residence 1 Year Ago,-0.12165414720518336
+Median Age Living in State (Years),Median Age Living in State (Years),1.0
+Median Age Living in State (Years),Population 65+ Years Old (%),0.8294693645876455
+Median Age Living in State (Years),25+ Years Old Population with Bachelor's Degree or Higher (%),-0.046826931214079985
+Median Age Living in State (Years),No Healthcare Coverage (%),-0.38867258665649135
+Median Age Living in State (Years),Households with One or More People Under 18 Years (%),-0.5616526614119889
+Median Age Living in State (Years),Civilian Employment Rate (%),-0.1346521602464577
+Population 65+ Years Old (%),Number of People Migrated from New York,0.17536089816319106
+Population 65+ Years Old (%),Population with Different State of Residence 1 Year Ago,-0.12390237365224017
+Population 65+ Years Old (%),Median Age Living in State (Years),0.8294693645876455
+Population 65+ Years Old (%),Population 65+ Years Old (%),1.0
+Population 65+ Years Old (%),25+ Years Old Population with Bachelor's Degree or Higher (%),-0.22510321404717706
+Population 65+ Years Old (%),No Healthcare Coverage (%),-0.31862938537003205
+Population 65+ Years Old (%),Households with One or More People Under 18 Years (%),-0.5904591384334308
+Population 65+ Years Old (%),Civilian Employment Rate (%),-0.23498274299574473
+25+ Years Old Population with Bachelor's Degree or Higher (%),Number of People Migrated from New York,0.1747645384469106
+25+ Years Old Population with Bachelor's Degree or Higher (%),Population with Different State of Residence 1 Year Ago,0.03383975559768561
+25+ Years Old Population with Bachelor's Degree or Higher (%),Median Age Living in State (Years),-0.046826931214079985
+25+ Years Old Population with Bachelor's Degree or Higher (%),Population 65+ Years Old (%),-0.22510321404717706
+25+ Years Old Population with Bachelor's Degree or Higher (%),25+ Years Old Population with Bachelor's Degree or Higher (%),1.0
+25+ Years Old Population with Bachelor's Degree or Higher (%),No Healthcare Coverage (%),-0.522455244477119
+25+ Years Old Population with Bachelor's Degree or Higher (%),Households with One or More People Under 18 Years (%),-0.24695675235065062
+25+ Years Old Population with Bachelor's Degree or Higher (%),Civilian Employment Rate (%),0.46160831899076954
+No Healthcare Coverage (%),Number of People Migrated from New York,0.15293987840977213
+No Healthcare Coverage (%),Population with Different State of Residence 1 Year Ago,0.40778247994933986
+No Healthcare Coverage (%),Median Age Living in State (Years),-0.38867258665649135
+No Healthcare Coverage (%),Population 65+ Years Old (%),-0.31862938537003205
+No Healthcare Coverage (%),25+ Years Old Population with Bachelor's Degree or Higher (%),-0.522455244477119
+No Healthcare Coverage (%),No Healthcare Coverage (%),1.0
+No Healthcare Coverage (%),Households with One or More People Under 18 Years (%),0.43629493687881993
+No Healthcare Coverage (%),Civilian Employment Rate (%),-0.43906586068627357
+Households with One or More People Under 18 Years (%),Number of People Migrated from New York,0.09296993348915686
+Households with One or More People Under 18 Years (%),Population with Different State of Residence 1 Year Ago,0.2999503348494814
+Households with One or More People Under 18 Years (%),Median Age Living in State (Years),-0.5616526614119889
+Households with One or More People Under 18 Years (%),Population 65+ Years Old (%),-0.5904591384334308
+Households with One or More People Under 18 Years (%),25+ Years Old Population with Bachelor's Degree or Higher (%),-0.24695675235065062
+Households with One or More People Under 18 Years (%),No Healthcare Coverage (%),0.43629493687881993
+Households with One or More People Under 18 Years (%),Households with One or More People Under 18 Years (%),1.0
+Households with One or More People Under 18 Years (%),Civilian Employment Rate (%),0.0018341697859064103
+Civilian Employment Rate (%),Number of People Migrated from New York,-0.17693649583605672
+Civilian Employment Rate (%),Population with Different State of Residence 1 Year Ago,-0.2887163201530255
+Civilian Employment Rate (%),Median Age Living in State (Years),-0.1346521602464577
+Civilian Employment Rate (%),Population 65+ Years Old (%),-0.23498274299574473
+Civilian Employment Rate (%),25+ Years Old Population with Bachelor's Degree or Higher (%),0.46160831899076954
+Civilian Employment Rate (%),No Healthcare Coverage (%),-0.43906586068627357
+Civilian Employment Rate (%),Households with One or More People Under 18 Years (%),0.0018341697859064103
+Civilian Employment Rate (%),Civilian Employment Rate (%),1.0
